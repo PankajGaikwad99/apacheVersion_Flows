@@ -1,5 +1,5 @@
 flows:
-  a8598bd2-ff6c-4cf4-8f94-b3ed1ebe1a8d: {ver: 2, file: Test.snapshot, comments: 2nd
-      commit, author: anonymous, created: 1745411235875, flowName: Test, flowDesc: sdjfhlksd}
+  a8598bd2-ff6c-4cf4-8f94-b3ed1ebe1a8d: {ver: 3, file: Test.snapshot, comments: test,
+    author: anonymous, created: 1745411587180, flowName: Test, flowDesc: sdjfhlksd}
 layoutVer: 1
 bucketId: cb301625-0df8-45c2-bc10-f0662092ca08

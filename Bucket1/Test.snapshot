@@ -37,7 +37,7 @@
             "groupId" : "e373f283-e93c-3ab3-9d04-177a9107504f",
             "id" : "17112310-15c4-3e36-bc26-da05ca1378c6",
             "instanceIdentifier" : "629b8fc3-0196-1000-3b95-15f173f5255f",
-            "name" : "GenerateFlowFile",
+            "name" : "GenerateFlowFileTest",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -88,7 +88,7 @@
           "identifier" : "17112310-15c4-3e36-bc26-da05ca1378c6",
           "instanceIdentifier" : "629b8fc3-0196-1000-3b95-15f173f5255f",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "GenerateFlowFile",
+          "name" : "GenerateFlowFileTest",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : -216.00010585949212,
