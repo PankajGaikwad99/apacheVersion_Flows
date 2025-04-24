@@ -1,7 +1,0 @@
-flows:
-  c992cb47-9300-4904-8f69-61277689a7b0: {ver: 1, file: Neuwave.snapshot, comments: neuwave
-      commit, author: anonymous, created: 1745473597791, flowName: Neuwave, flowDesc: ''}
-  a8598bd2-ff6c-4cf4-8f94-b3ed1ebe1a8d: {ver: 3, file: Test.snapshot, comments: test,
-    author: anonymous, created: 1745411587180, flowName: Test, flowDesc: sdjfhlksd}
-layoutVer: 1
-bucketId: cb301625-0df8-45c2-bc10-f0662092ca08
