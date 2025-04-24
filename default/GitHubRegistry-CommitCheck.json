@@ -15,8 +15,8 @@
       "backPressureDataSizeThreshold" : "1 GB",
       "backPressureObjectThreshold" : 10000,
       "bends" : [ {
-        "x" : 1176.0,
-        "y" : 488.0
+        "x" : 1368.0,
+        "y" : 480.0
       } ],
       "componentType" : "CONNECTION",
       "destination" : {
@@ -8271,8 +8271,8 @@
       "name" : "Linking And AddingComment",
       "outputPorts" : [ ],
       "position" : {
-        "x" : 984.0,
-        "y" : 128.0
+        "x" : 1176.0,
+        "y" : 104.0
       },
       "processGroups" : [ ],
       "processors" : [ {
@@ -13037,7 +13037,7 @@
         "retryCount" : 10,
         "runDurationMillis" : 0,
         "scheduledState" : "ENABLED",
-        "schedulingPeriod" : "0 sec",
+        "schedulingPeriod" : "1 sec",
         "schedulingStrategy" : "TIMER_DRIVEN",
         "style" : { },
         "type" : "org.apache.nifi.processors.standard.GetFile",
