@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1745576867112,
+    "description" : "DJ_NewFlow_Test",
+    "identifier" : "DJNewFlowTest",
+    "lastModifiedTimestamp" : 1745576867112,
+    "name" : "DJ_NewFlow_Test",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
